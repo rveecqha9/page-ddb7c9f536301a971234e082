@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.bao1999.cn/sitemap.xml
